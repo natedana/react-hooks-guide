@@ -19,6 +19,14 @@
   color: white;
 }
 
+a {
+  color: #61dafb;
+}
+
+a:visited {
+  color: #429bb4;
+}
+
 .App-link {
   color: #61dafb;
 }
